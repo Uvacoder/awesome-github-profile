@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/awesome-github-profile/",
+    "build": "vite build",
     "build:vercel": "vite build"
   },
   "dependencies": {
